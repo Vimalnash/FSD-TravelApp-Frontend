@@ -15,6 +15,30 @@
     background-repeat: no-repeat; 
 }
 
+.bgimage-login {
+    background-image: linear-gradient(
+                            0deg, 
+                            rgba(0,0,0,0.2), 
+                            rgba(0,0,0,0.7)
+                        ), 
+                        url("./assets/img/Login.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.bgimage-register {
+    background-image: linear-gradient(
+                            0deg, 
+                            rgba(0,0,0,0.2), 
+                            rgba(0,0,0,0.7)
+                        ), 
+                        url("./assets/img/Register.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
 .hmarque {
     animation: hmarquee 10s infinite linear;
     text-wrap: nowrap;

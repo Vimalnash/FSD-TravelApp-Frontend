@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import Button from "../Layouts/Button";
-import imgWelcome from "../assets/img/welcome2.jpg"
+import imgWelcome from "../assets/img/welcome.jpg"
 
 // Landing Page Loading view Section
 const Home = () => {

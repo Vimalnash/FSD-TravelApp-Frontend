@@ -4,6 +4,7 @@ import imgServices from "../assets/img/services.png"
 import imgUser from "../assets/img/user.png"
 import imgWallet from "../assets/img/wallet.png"
 
+// Trip Feature Details Functionality
 const Features = () => {
     return (
         <div className="min-h-screen shadow-lg shadow-white">
@@ -12,7 +13,7 @@ const Features = () => {
             <div className="w-full space-y-10 lg:w-2/4">
                 <div className="w-full space-y-4">
                     <h2 className="text-4xl font-medium text-center leading-tight md:text-start">Get Ready to Explore</h2>
-                    <p className="text-center leading-tight md:text-start">Discover the Best Holiday Experience with TravelManagement</p>
+                    <p className="text-center leading-tight md:text-start">Discover the Best Holiday Experience with TripWorld</p>
                 </div>
                 <div className="w-full mt-10 md:w-4/5 lg:w-4/5 lg:ml-14">
                     <img className="rounded-2xl shadow-2xl shadow-white" src={imgFeature} alt="ImageFeatures" />
