@@ -1,8 +1,8 @@
 import React from "react";
 import imgFeature from "../assets/img/about.jpg";
-import imgServices from "../assets/img/services.png"
-import imgUser from "../assets/img/user.png"
-import imgWallet from "../assets/img/wallet.png"
+import imgServices from "../assets/img/services.jpg"
+import imgUser from "../assets/img/user.jpg"
+import imgWallet from "../assets/img/wallet.jpg"
 
 // Trip Feature Details Functionality
 const Features = () => {
