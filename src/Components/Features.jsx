@@ -1,7 +1,7 @@
 import React from "react";
 import imgFeature from "../assets/img/about.jpg";
-import imgServices from "../assets/img/services.jpg"
-import imgUser from "../assets/img/user.jpg"
+import imgServ from "../assets/img/Serv.jpg"
+import imgUser from "../assets/img/User.jpg"
 import imgWallet from "../assets/img/wallet.jpg"
 
 // Trip Feature Details Functionality
@@ -23,7 +23,7 @@ const Features = () => {
             <div className="w-full space-y-10 mt-10 lg:w-2/4">
                 <div className="flex flex-row gap-5">
                     <div className="flex flex-row items-center w-24">
-                        <img src={imgServices} alt="ServicesImage" width="30px" height="30px"  />
+                        <img src={imgServ} alt="ServicesImage" width="30px" height="30px"  />
                     </div>
                     <div className="space-y-3">
                         <h3 className="font-semibold text-xl">Services</h3>
